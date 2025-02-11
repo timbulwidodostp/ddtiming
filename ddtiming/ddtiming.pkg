@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ddtiming': Difference-in-differences estimation with variation in treatment timing Use ddtiming With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ddtiming.ado
+f ddtiming.sthlp
