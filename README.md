@@ -3,6 +3,8 @@ Difference-in-differences estimation with variation in treatment timing Use ddti
 
 Bacon decomposition of a diff-in-diff estimator with variation in treatment timing Difference-in-differences estimation with variation in treatment timing Use ddtiming With STATA 18
 
+https://www.youtube.com/watch?v=myecA4PXueo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
